@@ -1,0 +1,72 @@
+<header>
+
+        <div class="camera_container">
+            <div id="camera" class="camera_wrap">
+                <div data-thumb="images/fun.jpg" data-src="images/slider1.jpg">
+                    <div class="camera_caption fadeIn">
+                    </div>
+                </div>
+                <div data-thumb="images/college.jpg" data-src="images/slider2.jpg">
+                    <div class="camera_caption fadeIn">
+                    </div>
+                </div>
+                <div data-thumb="images/life.jpg" data-src="images/slider3.jpg">
+                    <div class="camera_caption fadeIn">
+                    </div>
+                </div>
+            </div>
+
+            <div class="brand wow fadeIn">
+                <h1 class="brand_name">
+                    <a href="./">Citesa</a>
+                </h1>
+            </div>
+        </div>
+        
+        <div class="toggle-menu-container">
+            <nav class="nav">
+                <div class="nav_title"></div>
+                <a class="sf-menu-toggle fa fa-bars" href="#"></a>
+                <ul class="sf-menu">
+                    <li class="active">
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="#main">Upcoming Event</a>
+                        <ul>
+                            <li>
+                                <a href="#">Quisque nulla</a>
+                            </li>
+                            <li>
+                                <a href="#">Vestibulum libero</a>
+                                <ul>
+                                    <li>
+                                        <a href="#">Lorem</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Dolor</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Sit amet</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#">Vivamus eget nibh</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="index-2.html">What We Do</a>
+                    </li>
+                    <li>
+                        <a href="index-3.html">Menu</a>
+                    </li>
+                    <li>
+                        <a href="index-4.html">Contacts</a>
+                    </li>
+                </ul>
+            </nav>            
+        </div>
+
+    </header>
