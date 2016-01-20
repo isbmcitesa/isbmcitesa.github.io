@@ -6,7 +6,7 @@
                       Main Styles
 =========================================================*/
 body {
-  background: #a95858;
+  background: #9A031E;
   color: #333;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
@@ -25,7 +25,8 @@ h2 {
   font-size: 62px;
   line-height: 82px;
   font-weight: 300;
-  color: #823f3f;
+  color:#e31132; 
+  
 }
 @media (max-width: 767px) {
   h2 {
@@ -48,7 +49,7 @@ h2 em {
 }
 h3 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 20px;
   font-weight: 400;
   color: #393328;
@@ -946,7 +947,8 @@ footer .tm {
   margin-top: 20px;
 }
 .bg-1 {
-  background: #a95858;
+  background: #34252f;
+  #a95858;
   color: #ffffff;
 }
 .bg-1 h2 {
