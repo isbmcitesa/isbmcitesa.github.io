@@ -739,7 +739,7 @@ main {
 }
 .lt-ie9 .lazy-img img {
   filter: alpha(opacity=0);
-  padding-left:50px;
+  
   
 }
 .lazy-img .lazy-loaded {
@@ -1055,3 +1055,9 @@ footer .tm {
     border-radius: 3em;
     font-weight: 400;
 			}
+.service-box-1{
+			
+background: #fff;
+border: 1px solid #f7f7f7;
+padding: 20px;
+}
